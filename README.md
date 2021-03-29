@@ -1,14 +1,12 @@
-# BoidsXR
+This is a [boids](https://en.wikipedia.org/wiki/Boids) demo, with optional VR headset support.
 
-This is a demo of boids, with optional VR headset support
-
-To the [demo](https://boidsxr.github.io/boids-xr/).
+Here's the [demo](https://boidsxr.github.io/boids-xr/)
 
 Using a VR headset you'll see the boids fly around you, and you can steer them with the controller.
 
 ## Video
 
-[![New Boids demo](thumb1.png)](http://www.youtube.com/watch?v=KBkX8s5wcAU "New boids demo")
+[![New Boids demo](docs/thumb1.png)](http://www.youtube.com/watch?v=KBkX8s5wcAU "New boids demo")
 
 ## Who
 
@@ -16,7 +14,9 @@ Using a VR headset you'll see the boids fly around you, and you can steer them w
 
 ## What
 
-See: (background and technical details)[docs/README.md]
+Boids is an artificial life program, developed by Craig Reynolds in 1986, which simulates the flocking behaviour of birds.
+
+More [background and technical details](docs/README.md)
 
 
 ## Licence & Copyright
