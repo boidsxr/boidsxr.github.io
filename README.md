@@ -14,7 +14,7 @@ Using a VR headset you'll see the boids fly around you, and you can steer them w
 
 ## What
 
-Boids is an artificial life program, developed by Craig Reynolds in 1986, which simulates the flocking behaviour of birds.
+Boids is an artificial life program, [developed](http://www.red3d.com/cwr/boids/) by Craig Reynolds in 1986, which simulates the flocking behaviour of birds.
 
 More [background and technical details](docs/README.md)
 
